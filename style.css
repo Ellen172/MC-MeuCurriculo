@@ -1,0 +1,73 @@
+*{
+	font-family: Arial;
+}
+
+.nome{
+	font-size: 3em;
+	color: #797D7F;
+	font-style: normal;
+	text-align: center;
+	margin: 0px;
+}
+.nome > strong {
+	color: black;
+	font-style: bold;
+}
+.contato-cinza{
+	text-align: center;
+	color: #626567;
+	font-size: 0.9em;
+	margin: 0px;
+}
+.contato-verde{
+	text-align: center;
+	color: #1E8449;
+	font-size: 0.9em;
+	font-weight: bolder;
+	margin: 0px;
+}
+.resumo-sem-margem{
+	margin:0px;
+	color: #626567;
+	text-align: justify;
+	font-size: 0.9em;
+}
+.titulo{
+	margin: 0px;
+	color: black;
+	font-weight: bolder;
+	font-size: 1em;
+	text-transform: uppercase;
+}
+.data{
+	margin:0px;
+	color: #4D5656;
+	font-weight: bold;
+	margin-left: 30px;
+}
+.local{
+	margin:0px;
+	color:#626567;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+.local > strong {
+	color: #1E8449;
+	font-weight: bold;
+}
+.resumo{
+	margin:0px;
+	color: #626567;
+	text-align: justify;
+	font-size: 0.9em;
+	margin-left: 30px;
+}
+.lista{
+	color: #626567;
+	text-align: justify;
+	font-size: 0.9em;
+	margin:0px;
+	margin-bottom: 3px;
+}
+	
+	
